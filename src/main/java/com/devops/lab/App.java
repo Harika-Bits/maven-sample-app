@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "riggered Jenkins CI!" );
+        System.out.println( "Jenkins CI Trigger Test!" );
     }
 }
